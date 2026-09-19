@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 -->
 <div align="center">
 
-<!-- 🐉 Animated Dragon -->
-<img src="./assets/dragon.gif" width="500" alt="Animated Dragon">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/25.gif" width="180">
 
 # 👋 Hi, I'm Sina Keshavarzi
 
@@ -59,8 +58,7 @@ Here are some ideas to get you started:
 
 ### Languages
 
-<p align="center">
-
+<p>
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
@@ -69,17 +67,14 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
 </p>
 
 ### Tools
 
-<p align="center">
-
+<p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-
 </p>
 
 ---
@@ -88,11 +83,9 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-<img height="180"
-src="https://github-readme-stats.vercel.app/api?username=iwasrenor0011-ops&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=iwasrenor0011-ops&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=iwasrenor0011-ops&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iwasrenor0011-ops&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -140,6 +133,15 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=iwasrenor001
 
 </div>
 
+---
+
+<div align="center">
+
+### 💙 Thanks for visiting my profile!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:58A6FF&height=120&section=footer"/>
+
+</div>
 ---
 
 <div align="center">
