@@ -142,13 +142,4 @@ Here are some ideas to get you started:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:58A6FF&height=120&section=footer"/>
 
 </div>
-focus:
-  - Software Development
-  - Problem Solving
-  - Learning New Technologies
-  - Building Real Projects
 
-mindset:
-  - Learn
-  - Build
-  - Improve
