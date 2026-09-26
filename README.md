@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/25.gif" width="180">
+<img src="https://media.tenor.com/IpAyHtYc--gAAAAi/charizard-flying.gif" width="180">
 
 # 👋 Hi, I'm Sina Keshavarzi
 
